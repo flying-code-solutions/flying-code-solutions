@@ -2,7 +2,13 @@
 
 ![Cockpit of C172 OK-TOC](https://github.com/flying-code-solutions/flying-code-solutions/blob/main/img-c172-glass-cockpit.jpg?raw=true)
 
-My name is Tomas. I am a pilot, a web developer, and founder of Flying Code Solutions (which at this point is just another fancier name for, well, me). The purpose of Flying Code Solutions is to make myself grow as a coder while creating apps that will hopefully assist my fellow pilots in their training and subsequent education and make their flying safer, easier, and more fun.
+My name is Tomas. I am a pilot, a web developer, and the founder of Flying Code Solutions (which at this point is just another fancier name for, well, me). The purpose of Flying Code Solutions is to make myself grow as a coder while creating apps that will hopefully assist my fellow pilots in their training and subsequent education and make their flying safer, easier, and more fun.
+
+I work with the following technologies (among others):  
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Current goal:** Learn/refresh React  
 **Associated projects/repos:** test-notes
