@@ -6,12 +6,16 @@ My name is Tomas. I am a pilot, a web developer, and the founder of Flying Code 
 
 I work with the following technologies (among others):  
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Current goal:** Learn/refresh React  
-**Associated projects/repos:** test-notes
+**Current goal:** Practice working with NextJS  
+**Associated projects/repos:** test-shop
+
+**Past activities and repos**  
+Learn/refresh React (test-notes)
 
 <!--
 **flying-code-solutions/flying-code-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
