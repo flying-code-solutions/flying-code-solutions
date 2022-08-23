@@ -5,6 +5,8 @@
 My name is Tomas. I am a pilot, a web developer, and the founder of Flying Code Solutions (which at this point is just another fancier name for, well, me). The purpose of Flying Code Solutions is to make myself grow as a coder while creating apps that will hopefully assist my fellow pilots in their training and subsequent education and make their flying safer, easier, and more fun.
 
 I work with the following technologies (among others):  
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
