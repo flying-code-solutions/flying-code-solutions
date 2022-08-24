@@ -14,10 +14,11 @@ I work with the following technologies (among others):
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Current goal:** Practice working with NextJS  
+**Current goal:** Learn React hooks, advanced concepts, user authentication  
 **Associated projects/repos:** test-shop
 
 **Past activities and repos**  
+Practice working with NextJS (test-shop)
 Learn/refresh React (test-notes)
 
 <!--
