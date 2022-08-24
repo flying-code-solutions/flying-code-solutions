@@ -18,7 +18,7 @@ I work with the following technologies (among others):
 **Associated projects/repos:** test-shop
 
 **Past activities and repos**  
-Practice working with NextJS (test-shop)
+Practice working with NextJS (test-shop)  
 Learn/refresh React (test-notes)
 
 <!--
