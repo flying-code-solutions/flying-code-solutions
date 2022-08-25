@@ -2,7 +2,7 @@
 
 ![Cockpit of C172 OK-TOC](https://github.com/flying-code-solutions/flying-code-solutions/blob/main/img-c172-glass-cockpit.jpg?raw=true)
 
-My name is Tomas. I am a pilot, a web developer, and the founder of Flying Code Solutions (which at this point is just another fancier name for, well, me). The purpose of Flying Code Solutions is to make myself grow as a coder while creating apps that will hopefully assist my fellow pilots in their training and subsequent education and make their flying safer, easier, and more fun.
+My name is Tomas. I am a pilot (and a full-on aviation geek), a web developer, and the founder of Flying Code Solutions (which at this point is just another fancier name for, well, me). The purpose of Flying Code Solutions is to make myself grow as a coder while creating apps that will hopefully assist my fellow pilots in their training and subsequent education and make their flying safer, easier, and more fun.
 
 I work with the following technologies (among others):  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
