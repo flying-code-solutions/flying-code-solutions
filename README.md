@@ -20,7 +20,7 @@ What I work with:
 **Databases**  
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Current goal:** Learn React hooks, advanced concepts, user authentication  
+**Current goal:** Learn React hooks, advanced concepts, user authentication, route protection  
 **Associated projects/repos:** test-shop
 
 **Past activities and repos**  
