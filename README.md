@@ -20,6 +20,7 @@ What I work with:
 **Databases**  
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<!--
 **Current goal:** Learn React hooks, advanced concepts, user authentication, route protection  
 **Associated projects/repos:** test-shop
 
@@ -27,7 +28,6 @@ What I work with:
 Practice working with NextJS (test-shop)  
 Learn/refresh React (test-notes)
 
-<!--
 **flying-code-solutions/flying-code-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
