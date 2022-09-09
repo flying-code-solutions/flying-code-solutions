@@ -21,10 +21,11 @@ What I work with:
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
-**Current goal:** Learn React hooks, advanced concepts, user authentication, route protection  
-**Associated projects/repos:** test-shop
+**Current goal:** Gain more experience with NextJS and create a flashcard app for a future project  
+**Associated projects/repos:** test-flashcards
 
 **Past activities and repos**  
+Learn React hooks, advanced concepts, user authentication, route protection  (test-shop)
 Practice working with NextJS (test-shop)  
 Learn/refresh React (test-notes)
 
