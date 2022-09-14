@@ -22,6 +22,7 @@ What I work with:
 
 <!--
 **Current goal:** Gain more experience with NextJS and create a flashcard app for a future project  
+**Current stage:** User authentication
 **Associated projects/repos:** test-flashcards
 
 **Past activities and repos**  
